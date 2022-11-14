@@ -1,0 +1,18 @@
+var data = [
+    {year 1991, namealpha, value 15},
+    {year 1992, namealpha, value 34},
+    {year 1991, namealpha2, value 17},
+    {year 1992, namealpha2, value 65},
+    {year 1991, namebeta, value 10},
+    {year 1992, namebeta, value 10},
+    {year 1991, namebeta2, value 40},
+    {year 1992, namebeta2, value 38},
+    {year 1991, namegamma, value 5},
+    {year 1992, namegamma, value 10},
+    {year 1991, namegamma2, value 20},
+    {year 1992, namegamma2, value 34},
+    {year 1991, namedelta, value 50},
+    {year 1992, namedelta, value 43},
+    {year 1991, namedelta2, value 17},
+    {year 1992, namedelta2, value 35}
+  ]
